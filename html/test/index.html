@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hey! Welcome to this test</title>
+		<script>
+			console.log("This is a script in the header.");
+		</script>
+		<style>
+			div {
+				color: purple;
+			}
+			div div {
+				color: red;
+			}
+		</style>
+	</head>
+	<body>
+		<div>You loaded this page</div>
+		<script src="js/main.js"></script>
+		<script>
+			console.log("This is an inline script.");
+		</script>
+		<div>
+			<div>This is a nested DIV</div>
+			<script>
+				console.log("This is a nested script.");
+			</script>
+		</div>
+		<script>
+			console.log("This is a script in a different location.");
+		</script>
+	</body>
+</html>
