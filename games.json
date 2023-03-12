@@ -2,652 +2,912 @@
   "flash": [
     {
       "id": "1gunblood",
+      "type": 1,
+      "tags": [],
       "name": "Gun Blood",
       "desc": null
     },
     {
       "id": "102209_castle202c",
+      "type": 1,
+      "tags": [],
       "name": "Defend the Castle",
       "desc": null
     },
     {
       "id": "abobbos-big-adventure",
+      "type": 1,
+      "tags": [],
       "name": "Abobo's Big Adventure",
       "desc": null
     },
     {
       "id": "afl",
+      "type": 1,
+      "tags": [],
       "name": "Axis Football League",
       "desc": null
     },
     {
       "id": "age_of_war",
+      "type": 1,
+      "tags": [],
       "name": "Age of War",
       "desc": null
     },
     {
       "id": "alien_hominid",
+      "type": 1,
+      "tags": [],
       "name": "Alien Hominid",
       "desc": null
     },
     {
       "id": "asteroids",
+      "type": 1,
+      "tags": [],
       "name": "Asteroids",
       "desc": null
     },
     {
       "id": "avalanche",
+      "type": 1,
+      "tags": [],
       "name": "Avalanche",
       "desc": null
     },
     {
       "id": "bloonstd",
+      "type": 1,
+      "tags": [],
       "name": "Bloons Tower Defense",
       "desc": null
     },
     {
       "id": "bloonstd2",
+      "type": 1,
+      "tags": [],
       "name": "Bloons Tower Defense 2",
       "desc": null
     },
     {
       "id": "bloxorz",
+      "type": 1,
+      "tags": [],
       "name": "Bloxorz",
       "desc": null
     },
     {
       "id": "blue_tetris",
+      "type": 1,
+      "tags": [],
       "name": "Blue Tetris",
       "desc": null
     },
     {
       "id": "boxhead2",
+      "type": 1,
+      "tags": [],
       "name": "Boxhead 2",
       "desc": null
     },
     {
       "id": "breakingthebank",
+      "type": 1,
+      "tags": [],
       "name": "Breaking the Bank",
       "desc": null
     },
     {
       "id": "bubble-shooter",
+      "type": 1,
+      "tags": [],
       "name": "Bubble Shooter",
       "desc": null
     },
     {
       "id": "color_combat",
+      "type": 1,
+      "tags": [],
       "name": "Color Combat",
       "desc": null
     },
     {
       "id": "commando2_1",
+      "type": 1,
+      "tags": [],
       "name": "Commando",
       "desc": null
     },
     {
       "id": "cubefield",
+      "type": 1,
+      "tags": [],
       "name": "Cubefield",
       "desc": null
     },
     {
       "id": "dadnme",
+      "type": 1,
+      "tags": [],
       "name": "Dad n' Me",
       "desc": null
     },
     {
       "id": "dbzd",
+      "type": 1,
+      "tags": [],
       "name": "Dragon Ball Z Devolution",
       "desc": null
     },
     {
       "id": "dragonballz",
+      "type": 1,
+      "tags": [],
       "name": "Dragon Ball Z Fighting Simulator",
       "desc": null
     },
     {
       "id": "duckhunt",
+      "type": 1,
+      "tags": [],
       "name": "Duck Hunt",
       "desc": null
     },
     {
       "id": "ducklife1",
+      "type": 1,
+      "tags": [],
       "name": "Duck Life 1",
       "desc": null
     },
     {
       "id": "ducklife2",
+      "type": 1,
+      "tags": [],
       "name": "Duck Life 2",
       "desc": null
     },
     {
       "id": "ducklife3",
+      "type": 1,
+      "tags": [],
       "name": "Duck Life 3",
       "desc": null
     },
     {
       "id": "ducklife4",
+      "type": 1,
+      "tags": [],
       "name": "Duck Life 4",
       "desc": null
     },
     {
       "id": "electricman2",
+      "type": 1,
+      "tags": [],
       "name": "Electric Man 2",
       "desc": null
     },
     {
       "id": "etp",
+      "type": 1,
+      "tags": [],
       "name": "Escaping the Prison",
       "desc": null
     },
     {
       "id": "fancypantsadventure",
+      "type": 1,
+      "tags": [],
       "name": "Fancy Pants Adventure",
       "desc": null
     },
     {
       "id": "flash-tetris",
+      "type": 1,
+      "tags": [],
       "name": "Tetris",
       "desc": null
     },
     {
       "id": "fleeingthecomplex",
+      "type": 1,
+      "tags": [],
       "name": "Fleeing the Complex",
       "desc": null
     },
     {
       "id": "hobo",
+      "type": 1,
+      "tags": [],
       "name": "Hobo",
       "desc": null
     },
     {
       "id": "hobo2",
+      "type": 1,
+      "tags": [],
       "name": "Hobo 2",
       "desc": null
     },
     {
       "id": "hobo3",
+      "type": 1,
+      "tags": [],
       "name": "Hobo 3",
       "desc": null
     },
     {
       "id": "hobo4",
+      "type": 1,
+      "tags": [],
       "name": "Hobo 4",
       "desc": null
     },
     {
       "id": "hobo5",
+      "type": 1,
+      "tags": [],
       "name": "Hobo 5",
       "desc": null
     },
     {
       "id": "hobo6",
+      "type": 1,
+      "tags": [],
       "name": "Hobo 6",
       "desc": null
     },
     {
       "id": "hobo7",
+      "type": 1,
+      "tags": [],
       "name": "Hobo 7",
       "desc": null
     },
     {
       "id": "infiltratingtheairship",
+      "type": 1,
+      "tags": [],
       "name": "Infiltrating the Airship",
       "desc": null
     },
     {
       "id": "interactivebuddy",
+      "type": 1,
+      "tags": [],
       "name": "Interactive Buddy",
       "desc": null
     },
     {
       "id": "interactivebuddy2",
+      "type": 1,
+      "tags": [],
       "name": "Interactive Buddy 2",
       "desc": null
     },
     {
       "id": "johnny2",
+      "type": 1,
+      "tags": [],
       "name": "Johnny 2",
       "desc": null
     },
     {
       "id": "learntofly",
+      "type": 1,
+      "tags": [],
       "name": "Learn to Fly",
       "desc": null
     },
     {
       "id": "learntofly2",
+      "type": 1,
+      "tags": [],
       "name": "Learn to Fly 2",
       "desc": null
     },
     {
       "id": "Mario_Combat",
+      "type": 1,
+      "tags": [],
       "name": "Mario Combat",
       "desc": null
     },
     {
       "id": "mariokartflash",
+      "type": 1,
+      "tags": [],
       "name": "Mario Kart Flash",
       "desc": null
     },
     {
       "id": "miami-shark",
+      "type": 1,
+      "tags": [],
       "name": "Miami Shark",
       "desc": null
     },
     {
       "id": "minecrafttd",
+      "type": 1,
+      "tags": [],
       "name": "Minecraft Tower Defense",
       "desc": null
     },
     {
       "id": "miniputt",
+      "type": 1,
+      "tags": [],
       "name": "Miniputt",
       "desc": null
     },
     {
       "id": "new-york-shark-unblocked",
+      "type": 1,
+      "tags": [],
       "name": "New York Shark",
       "desc": null
     },
     {
       "id": "pacman",
+      "type": 1,
+      "tags": [],
       "name": "Pacman",
       "desc": null
     },
     {
       "id": "pong",
+      "type": 1,
+      "tags": [],
       "name": "Pong",
       "desc": null
     },
     {
       "id": "Portal_wcs2",
+      "type": 1,
+      "tags": [],
       "name": "Portal Flash",
       "desc": null
     },
     {
       "id": "pottyracers",
+      "type": 1,
+      "tags": [],
       "name": "Potty Racers",
       "desc": null
     },
     {
       "id": "pottyracers2",
+      "type": 1,
+      "tags": [],
       "name": "Potty Racers 2",
       "desc": null
     },
     {
       "id": "raftwars",
+      "type": 1,
+      "tags": [],
       "name": "Raft Wars",
       "desc": null
     },
     {
       "id": "raftwars2",
+      "type": 1,
+      "tags": [],
       "name": "Raft Wars 2",
       "desc": null
     },
     {
       "id": "ragdollavalanche2",
+      "type": 1,
+      "tags": [],
       "name": "Ragdoll Avalanche 2",
       "desc": null
     },
     {
       "id": "rage3",
+      "type": 1,
+      "tags": [],
       "name": "Rage 3",
       "desc": null
     },
     {
       "id": "riddleschool",
+      "type": 1,
+      "tags": [],
       "name": "Riddle School",
       "desc": null
     },
     {
       "id": "riddleschool2",
+      "type": 1,
+      "tags": [],
       "name": "Riddle School 2",
       "desc": null
     },
     {
       "id": "riddleschool3",
+      "type": 1,
+      "tags": [],
       "name": "Riddle School 3",
       "desc": null
     },
     {
       "id": "riddleschool4",
+      "type": 1,
+      "tags": [],
       "name": "Riddle School 4",
       "desc": null
     },
     {
       "id": "riddleschool5",
+      "type": 1,
+      "tags": [],
       "name": "Riddle School 5",
       "desc": null
     },
     {
       "id": "riddletransfer",
+      "type": 1,
+      "tags": [],
       "name": "Riddle Transfer",
       "desc": null
     },
     {
       "id": "riddletransfer2",
+      "type": 1,
+      "tags": [],
       "name": "Riddle Transfer 2",
       "desc": null
     },
     {
       "id": "run",
+      "type": 1,
+      "tags": [],
       "name": "Run",
       "desc": null
     },
     {
       "id": "ssf",
+      "type": 1,
+      "tags": [],
       "name": "Super Smash Flash",
       "desc": null
     },
     {
       "id": "std",
+      "type": 1,
+      "tags": [],
       "name": "Stealing the Diamond",
       "desc": null
     },
     {
       "id": "stickrpg",
+      "type": 1,
+      "tags": [],
       "name": "Stick RPG",
       "desc": null
     },
     {
       "id": "supermario63",
+      "type": 1,
+      "tags": [],
       "name": "Super Mario 63",
       "desc": null
     },
     {
       "id": "tanktrouble",
+      "type": 1,
+      "tags": [],
       "name": "Tank Trouble",
       "desc": null
     },
     {
       "id": "tboi",
+      "type": 1,
+      "tags": [],
       "name": "The Binding of Isaac",
       "desc": null
     },
     {
       "id": "TheImpossibleQuiz",
+      "type": 1,
+      "tags": [],
       "name": "The Impossible Quiz",
       "desc": null
     },
     {
       "id": "theworldshardestgame",
+      "type": 1,
+      "tags": [],
       "name": "The Worlds Hardest Game",
       "desc": null
     },
     {
       "id": "theworldshardestgame2",
+      "type": 1,
+      "tags": [],
       "name": "The Worlds Hardest Game 2",
       "desc": null
     },
     {
       "id": "this_is_the_only_level",
+      "type": 1,
+      "tags": [],
       "name": "This is the Only Level",
       "desc": null
     },
     {
       "id": "toss_the_turtle",
+      "type": 1,
+      "tags": [],
       "name": "Toss the Turtle",
       "desc": null
     },
     {
       "id": "ultimate-flash-sonic",
+      "type": 1,
+      "tags": [],
       "name": "Ultimate Flash Sonic",
       "desc": null
     },
     {
       "id": "unfairmario",
+      "type": 1,
+      "tags": [],
       "name": "Unfair Mario",
       "desc": null
     },
     {
       "id": "weebly_apple_shooter",
+      "type": 1,
+      "tags": [],
       "name": "Apple Shooter",
       "desc": null
     },
     {
       "id": "circls",
+      "type": 1,
+      "tags": [],
       "name": "Circls",
       "desc": null
     },
     {
       "id": "dodge",
+      "type": 1,
+      "tags": [],
       "name": "Dodge",
       "desc": null
     },
     {
       "id": "dropblox",
+      "type": 1,
+      "tags": [],
       "name": "Dropblox",
       "desc": null
     },
     {
       "id": "dry-fire",
+      "type": 1,
+      "tags": [],
       "name": "Dry Fire",
       "desc": null
     },
     {
       "id": "dupligon",
+      "type": 1,
+      "tags": [],
       "name": "Dupligon",
       "desc": null
     },
     {
       "id": "ejector",
+      "type": 1,
+      "tags": [],
       "name": "Ejector",
       "desc": null
     },
     {
       "id": "elasticity",
+      "type": 1,
+      "tags": [],
       "name": "Elasticity",
       "desc": null
     },
     {
       "id": "enigma",
+      "type": 1,
+      "tags": [],
       "name": "Enigma",
       "desc": null
     },
     {
       "id": "exorbis",
+      "type": 1,
+      "tags": [],
       "name": "Exorbis",
       "desc": null
     },
     {
       "id": "galooxagala",
+      "type": 1,
+      "tags": [],
       "name": "Galooxagala",
       "desc": null
     },
     {
       "id": "grid16",
+      "type": 1,
+      "tags": [],
       "name": "Grid 16",
       "desc": null
     },
     {
       "id": "orb",
+      "type": 1,
+      "tags": [],
       "name": "Orb",
       "desc": null
     },
     {
       "id": "pixelist",
+      "type": 1,
+      "tags": [],
       "name": "Pixelist",
       "desc": null
     },
     {
       "id": "real-estate-tycoon",
+      "type": 1,
+      "tags": [],
       "name": "Real Estate Tycoon",
       "desc": null
     },
     {
       "id": "reflexion",
+      "type": 1,
+      "tags": [],
       "name": "Reflexion",
       "desc": null
     },
     {
       "id": "remaze",
+      "type": 1,
+      "tags": [],
       "name": "Remaze",
       "desc": null
     },
     {
       "id": "retron",
+      "type": 1,
+      "tags": [],
       "name": "Retron",
       "desc": null
     },
     {
       "id": "rhythm-blaster-v2",
+      "type": 1,
+      "tags": [],
       "name": "Rhythm Blaster v2",
       "desc": null
     },
     {
       "id": "rhythm-snake",
+      "type": 1,
+      "tags": [],
       "name": "Rhythm Snake",
       "desc": null
     },
     {
       "id": "robot-jim",
+      "type": 1,
+      "tags": [],
       "name": "Robot Jim",
       "desc": null
     },
     {
       "id": "rose",
+      "type": 1,
+      "tags": [],
       "name": "Rose",
       "desc": null
     },
     {
       "id": "scoregamites",
+      "type": 1,
+      "tags": [],
       "name": "Scoregamites",
       "desc": null
     },
     {
       "id": "shaper",
+      "type": 1,
+      "tags": [],
       "name": "Shaper",
       "desc": null
     },
     {
       "id": "short-circuit",
+      "type": 1,
+      "tags": [],
       "name": "Short Circuit",
       "desc": null
     },
     {
       "id": "shrink",
+      "type": 1,
+      "tags": [],
       "name": "Shrink",
       "desc": null
     },
     {
       "id": "silent-death",
+      "type": 1,
+      "tags": [],
       "name": "Silent Death",
       "desc": null
     },
     {
       "id": "smashing",
+      "type": 1,
+      "tags": [],
       "name": "Smashing",
       "desc": null
     },
     {
       "id": "solarsaurs",
+      "type": 1,
+      "tags": [],
       "name": "Solarsaurs",
       "desc": null
     },
     {
       "id": "space-is-key-2",
+      "type": 1,
+      "tags": [],
       "name": "Space is Key 2",
       "desc": null
     },
     {
       "id": "space-is-key",
+      "type": 1,
+      "tags": [],
       "name": "Space is Key",
       "desc": null
     },
     {
       "id": "spy-2",
+      "type": 1,
+      "tags": [],
       "name": "Spy 2",
       "desc": null
     },
     {
       "id": "spy",
+      "type": 1,
+      "tags": [],
       "name": "Spy",
       "desc": null
     },
     {
       "id": "squareman",
+      "type": 1,
+      "tags": [],
       "name": "Squareman",
       "desc": null
     },
     {
       "id": "squeeze",
+      "type": 1,
+      "tags": [],
       "name": "Squeeze",
       "desc": null
     },
     {
       "id": "squidgy",
+      "type": 1,
+      "tags": [],
       "name": "Squidgy",
       "desc": null
     },
     {
       "id": "stickmanmadness",
+      "type": 1,
+      "tags": [],
       "name": "Stickman Madness",
       "desc": null
     },
     {
       "id": "streets-of-valhalla",
+      "type": 1,
+      "tags": [],
       "name": "Streets of Valhalla",
       "desc": null
     },
     {
       "id": "stunt-dirt-bike",
+      "type": 1,
+      "tags": [],
       "name": "Stunt Dirt Bike",
       "desc": null
     },
     {
       "id": "submachine2",
+      "type": 1,
+      "tags": [],
       "name": "Submachine 2",
       "desc": null
     },
     {
       "id": "submachine3",
+      "type": 1,
+      "tags": [],
       "name": "Submachine 3",
       "desc": null
     },
     {
       "id": "submachine4",
+      "type": 1,
+      "tags": [],
       "name": "Submachine 4",
       "desc": null
     },
     {
       "id": "submachine5",
+      "type": 1,
+      "tags": [],
       "name": "Submachine 5",
       "desc": null
     },
     {
       "id": "tattoo-artist",
+      "type": 1,
+      "tags": [],
       "name": "Tattoo Artist",
       "desc": null
     },
     {
       "id": "telepathrpg",
+      "type": 1,
+      "tags": [],
       "name": "Telepath RPG",
       "desc": null
     },
     {
       "id": "telepathrpg-chapter2",
+      "type": 1,
+      "tags": [],
       "name": "Telepath RPG Chapter 2",
       "desc": null
     },
     {
       "id": "the-amulet",
+      "type": 1,
+      "tags": [],
       "name": "The Amulet",
       "desc": null
     },
     {
       "id": "the-dark-age",
+      "type": 1,
+      "tags": [],
       "name": "The Dark Age",
       "desc": null
     },
     {
       "id": "the-egg",
+      "type": 1,
+      "tags": [],
       "name": "The Egg",
       "desc": null
     },
     {
       "id": "the-fog-fall",
       "name": "The Fog Fall",
+      "type": 1,
+      "tags": [],
       "desc": null
     }
   ],
