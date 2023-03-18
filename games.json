@@ -18,7 +18,7 @@
     },
     {
       "id": "abobbos-big-adventure",
-      "img": "",
+      "img": "abobbos-big-adventure.jpg",
       "type": 1,
       "tags": [],
       "name": "Abobo's Big Adventure",
@@ -26,7 +26,7 @@
     },
     {
       "id": "afl",
-      "img": "",
+      "img": "afl.jpg",
       "type": 1,
       "tags": [],
       "name": "Axis Football League",
@@ -34,7 +34,7 @@
     },
     {
       "id": "age_of_war",
-      "img": "",
+      "img": "aow.png",
       "type": 1,
       "tags": [],
       "name": "Age of War",
@@ -42,7 +42,7 @@
     },
     {
       "id": "alien_hominid",
-      "img": "",
+      "img": "ah.jpg",
       "type": 1,
       "tags": [],
       "name": "Alien Hominid",
@@ -50,7 +50,7 @@
     },
     {
       "id": "asteroids",
-      "img": "",
+      "img": "ar.jpg",
       "type": 1,
       "tags": [],
       "name": "Asteroids",
@@ -58,7 +58,7 @@
     },
     {
       "id": "avalanche",
-      "img": "",
+      "img": "avalanche.png",
       "type": 1,
       "tags": [],
       "name": "Avalanche",
@@ -74,7 +74,7 @@
     },
     {
       "id": "bloonstd2",
-      "img": "",
+      "img": "btd2.jpg",
       "type": 1,
       "tags": [],
       "name": "Bloons Tower Defense 2",
@@ -82,7 +82,7 @@
     },
     {
       "id": "bloxorz",
-      "img": "",
+      "img": "bx.jpg",
       "type": 1,
       "tags": [],
       "name": "Bloxorz",
@@ -98,7 +98,7 @@
     },
     {
       "id": "boxhead2",
-      "img": "",
+      "img": "b2p.jpg",
       "type": 1,
       "tags": [],
       "name": "Boxhead 2",
@@ -106,7 +106,7 @@
     },
     {
       "id": "breakingthebank",
-      "img": "",
+      "img": "btb.jpg",
       "type": 1,
       "tags": [],
       "name": "Breaking the Bank",
@@ -114,7 +114,7 @@
     },
     {
       "id": "bubble-shooter",
-      "img": "",
+      "img": "bs.png",
       "type": 1,
       "tags": [],
       "name": "Bubble Shooter",
@@ -122,7 +122,7 @@
     },
     {
       "id": "color_combat",
-      "img": "",
+      "img": "cc.jpg",
       "type": 1,
       "tags": [],
       "name": "Color Combat",
@@ -130,7 +130,7 @@
     },
     {
       "id": "commando2_1",
-      "img": "",
+      "img": "com.jpg",
       "type": 1,
       "tags": [],
       "name": "Commando",
@@ -138,7 +138,7 @@
     },
     {
       "id": "cubefield",
-      "img": "",
+      "img": "cf.jpg",
       "type": 1,
       "tags": [],
       "name": "Cubefield",
@@ -146,7 +146,7 @@
     },
     {
       "id": "dadnme",
-      "img": "",
+      "img": "dnm.png",
       "type": 1,
       "tags": [],
       "name": "Dad n' Me",
@@ -154,7 +154,7 @@
     },
     {
       "id": "dbzd",
-      "img": "",
+      "img": "dbzd.jpg",
       "type": 1,
       "tags": [],
       "name": "Dragon Ball Z Devolution",
@@ -162,7 +162,7 @@
     },
     {
       "id": "dragonballz",
-      "img": "",
+      "img": "dbz.jpg",
       "type": 1,
       "tags": [],
       "name": "Dragon Ball Z Fighting Simulator",
@@ -170,7 +170,7 @@
     },
     {
       "id": "duckhunt",
-      "img": "",
+      "img": "dh.jpg",
       "type": 1,
       "tags": [],
       "name": "Duck Hunt",
@@ -210,7 +210,7 @@
     },
     {
       "id": "electricman2",
-      "img": "",
+      "img": "em2.jpg",
       "type": 1,
       "tags": [],
       "name": "Electric Man 2",
@@ -218,7 +218,7 @@
     },
     {
       "id": "etp",
-      "img": "",
+      "img": "etp.jpg",
       "type": 1,
       "tags": [],
       "name": "Escaping the Prison",
@@ -226,7 +226,7 @@
     },
     {
       "id": "fancypantsadventure",
-      "img": "",
+      "img": "fpa.png",
       "type": 1,
       "tags": [],
       "name": "Fancy Pants Adventure",
@@ -242,7 +242,7 @@
     },
     {
       "id": "fleeingthecomplex",
-      "img": "",
+      "img": "ftc.jpg",
       "type": 1,
       "tags": [],
       "name": "Fleeing the Complex",
@@ -250,7 +250,7 @@
     },
     {
       "id": "hobo",
-      "img": "",
+      "img": "h.jpg",
       "type": 1,
       "tags": [],
       "name": "Hobo",
@@ -258,7 +258,7 @@
     },
     {
       "id": "hobo2",
-      "img": "",
+      "img": "h2.jpg",
       "type": 1,
       "tags": [],
       "name": "Hobo 2",
@@ -266,7 +266,7 @@
     },
     {
       "id": "hobo3",
-      "img": "",
+      "img": "h3.jpg",
       "type": 1,
       "tags": [],
       "name": "Hobo 3",
@@ -274,7 +274,7 @@
     },
     {
       "id": "hobo4",
-      "img": "",
+      "img": "h4.jpg",
       "type": 1,
       "tags": [],
       "name": "Hobo 4",
@@ -282,7 +282,7 @@
     },
     {
       "id": "hobo5",
-      "img": "",
+      "img": "h5.jpg",
       "type": 1,
       "tags": [],
       "name": "Hobo 5",
@@ -290,7 +290,7 @@
     },
     {
       "id": "hobo6",
-      "img": "",
+      "img": "h6.png",
       "type": 1,
       "tags": [],
       "name": "Hobo 6",
@@ -298,7 +298,7 @@
     },
     {
       "id": "hobo7",
-      "img": "",
+      "img": "h7.jpg",
       "type": 1,
       "tags": [],
       "name": "Hobo 7",
@@ -314,7 +314,7 @@
     },
     {
       "id": "interactivebuddy",
-      "img": "",
+      "img": "ib.jpg",
       "type": 1,
       "tags": [],
       "name": "Interactive Buddy",
@@ -322,7 +322,7 @@
     },
     {
       "id": "interactivebuddy2",
-      "img": "",
+      "img": "ib2.jpg",
       "type": 1,
       "tags": [],
       "name": "Interactive Buddy 2",
@@ -330,7 +330,7 @@
     },
     {
       "id": "johnny2",
-      "img": "",
+      "img": "jrf2.jpg",
       "type": 1,
       "tags": [],
       "name": "Johnny 2",
@@ -346,7 +346,7 @@
     },
     {
       "id": "learntofly2",
-      "img": "",
+      "img": "ltf2.jpg",
       "type": 1,
       "tags": [],
       "name": "Learn to Fly 2",
@@ -354,7 +354,7 @@
     },
     {
       "id": "Mario_Combat",
-      "img": "",
+      "img": "mc.jpg",
       "type": 1,
       "tags": [],
       "name": "Mario Combat",
@@ -362,7 +362,7 @@
     },
     {
       "id": "mariokartflash",
-      "img": "",
+      "img": "mcf.jpg",
       "type": 1,
       "tags": [],
       "name": "Mario Kart Flash",
@@ -378,7 +378,7 @@
     },
     {
       "id": "minecrafttd",
-      "img": "",
+      "img": "mctd.jpg",
       "type": 1,
       "tags": [],
       "name": "Minecraft Tower Defense",
@@ -386,7 +386,7 @@
     },
     {
       "id": "miniputt",
-      "img": "",
+      "img": "mp.jpg",
       "type": 1,
       "tags": [],
       "name": "Miniputt",
@@ -394,7 +394,7 @@
     },
     {
       "id": "new-york-shark-unblocked",
-      "img": "",
+      "img": "nys.jpg",
       "type": 1,
       "tags": [],
       "name": "New York Shark",
@@ -402,7 +402,7 @@
     },
     {
       "id": "pacman",
-      "img": "",
+      "img": "pm.jpg",
       "type": 1,
       "tags": [],
       "name": "Pacman",
@@ -410,7 +410,7 @@
     },
     {
       "id": "pong",
-      "img": "",
+      "img": "pong.png",
       "type": 1,
       "tags": [],
       "name": "Pong",
@@ -418,7 +418,7 @@
     },
     {
       "id": "Portal_wcs2",
-      "img": "",
+      "img": "pf.jpg",
       "type": 1,
       "tags": [],
       "name": "Portal Flash",
@@ -426,7 +426,7 @@
     },
     {
       "id": "pottyracers",
-      "img": "",
+      "img": "pr.jpg",
       "type": 1,
       "tags": [],
       "name": "Potty Racers",
@@ -434,7 +434,7 @@
     },
     {
       "id": "pottyracers2",
-      "img": "",
+      "img": "pr2.jpg",
       "type": 1,
       "tags": [],
       "name": "Potty Racers 2",
@@ -442,7 +442,7 @@
     },
     {
       "id": "raftwars",
-      "img": "",
+      "img": "rw.jpg",
       "type": 1,
       "tags": [],
       "name": "Raft Wars",
@@ -458,7 +458,7 @@
     },
     {
       "id": "ragdollavalanche2",
-      "img": "",
+      "img": "ra2.jpg",
       "type": 1,
       "tags": [],
       "name": "Ragdoll Avalanche 2",
@@ -466,7 +466,7 @@
     },
     {
       "id": "rage3",
-      "img": "",
+      "img": "r3.jpg",
       "type": 1,
       "tags": [],
       "name": "Rage 3",
@@ -474,7 +474,7 @@
     },
     {
       "id": "riddleschool",
-      "img": "",
+      "img": "rs.jpg",
       "type": 1,
       "tags": [],
       "name": "Riddle School",
@@ -482,7 +482,7 @@
     },
     {
       "id": "riddleschool2",
-      "img": "",
+      "img": "rs2.jpg",
       "type": 1,
       "tags": [],
       "name": "Riddle School 2",
@@ -490,7 +490,7 @@
     },
     {
       "id": "riddleschool3",
-      "img": "",
+      "img": "rs3.jpg",
       "type": 1,
       "tags": [],
       "name": "Riddle School 3",
@@ -498,7 +498,7 @@
     },
     {
       "id": "riddleschool4",
-      "img": "",
+      "img": "rs4.jpg",
       "type": 1,
       "tags": [],
       "name": "Riddle School 4",
@@ -506,7 +506,7 @@
     },
     {
       "id": "riddleschool5",
-      "img": "",
+      "img": "rs5.jpg",
       "type": 1,
       "tags": [],
       "name": "Riddle School 5",
@@ -514,7 +514,7 @@
     },
     {
       "id": "riddletransfer",
-      "img": "",
+      "img": "rt.jpg",
       "type": 1,
       "tags": [],
       "name": "Riddle Transfer",
@@ -522,7 +522,7 @@
     },
     {
       "id": "riddletransfer2",
-      "img": "",
+      "img": "rt2.jpg",
       "type": 1,
       "tags": [],
       "name": "Riddle Transfer 2",
@@ -530,7 +530,7 @@
     },
     {
       "id": "run",
-      "img": "",
+      "img": "run.png",
       "type": 1,
       "tags": [],
       "name": "Run",
@@ -546,7 +546,7 @@
     },
     {
       "id": "std",
-      "img": "",
+      "img": "std.jpg",
       "type": 1,
       "tags": [],
       "name": "Stealing the Diamond",
@@ -554,7 +554,7 @@
     },
     {
       "id": "stickrpg",
-      "img": "",
+      "img": "srpg.jpg",
       "type": 1,
       "tags": [],
       "name": "Stick RPG",
@@ -562,7 +562,7 @@
     },
     {
       "id": "supermario63",
-      "img": "",
+      "img": "sm63.png",
       "type": 1,
       "tags": [],
       "name": "Super Mario 63",
@@ -578,7 +578,7 @@
     },
     {
       "id": "tboi",
-      "img": "",
+      "img": "tboi.jpg",
       "type": 1,
       "tags": [],
       "name": "The Binding of Isaac",
@@ -586,7 +586,7 @@
     },
     {
       "id": "TheImpossibleQuiz",
-      "img": "",
+      "img": "impossiblequiz.png",
       "type": 1,
       "tags": [],
       "name": "The Impossible Quiz",
@@ -602,7 +602,7 @@
     },
     {
       "id": "theworldshardestgame2",
-      "img": "",
+      "img": "whg2.jpg",
       "type": 1,
       "tags": [],
       "name": "The Worlds Hardest Game 2",
@@ -618,7 +618,7 @@
     },
     {
       "id": "toss_the_turtle",
-      "img": "",
+      "img": "ttt.png",
       "type": 1,
       "tags": [],
       "name": "Toss the Turtle",
@@ -930,7 +930,7 @@
     },
     {
       "id": "stickmanmadness",
-      "img": "",
+      "img": "stickmanmadness.png",
       "type": 1,
       "tags": [],
       "name": "Stickman Madness",
@@ -938,7 +938,7 @@
     },
     {
       "id": "streets-of-valhalla",
-      "img": "",
+      "img": "streetsofvalhalla.png",
       "type": 1,
       "tags": [],
       "name": "Streets of Valhalla",
@@ -946,7 +946,7 @@
     },
     {
       "id": "stunt-dirt-bike",
-      "img": "",
+      "img": "stuntdirtbike.png",
       "type": 1,
       "tags": [],
       "name": "Stunt Dirt Bike",
@@ -954,7 +954,7 @@
     },
     {
       "id": "submachine2",
-      "img": "",
+      "img": "submachine2.png",
       "type": 1,
       "tags": [],
       "name": "Submachine 2",
@@ -962,7 +962,7 @@
     },
     {
       "id": "submachine3",
-      "img": "",
+      "img": "submachine3.png",
       "type": 1,
       "tags": [],
       "name": "Submachine 3",
@@ -970,7 +970,7 @@
     },
     {
       "id": "submachine4",
-      "img": "",
+      "img": "submachine4.png",
       "type": 1,
       "tags": [],
       "name": "Submachine 4",
@@ -978,7 +978,7 @@
     },
     {
       "id": "submachine5",
-      "img": "",
+      "img": "submachine5.png",
       "type": 1,
       "tags": [],
       "name": "Submachine 5",
@@ -986,7 +986,7 @@
     },
     {
       "id": "tattoo-artist",
-      "img": "",
+      "img": "tattooartist.png",
       "type": 1,
       "tags": [],
       "name": "Tattoo Artist",
@@ -994,7 +994,7 @@
     },
     {
       "id": "telepathrpg",
-      "img": "",
+      "img": "trpgpart1.png",
       "type": 1,
       "tags": [],
       "name": "Telepath RPG",
@@ -1002,7 +1002,7 @@
     },
     {
       "id": "telepathrpg-chapter2",
-      "img": "",
+      "img": "trpgpart2.png",
       "type": 1,
       "tags": [],
       "name": "Telepath RPG Chapter 2",
@@ -1010,7 +1010,7 @@
     },
     {
       "id": "the-amulet",
-      "img": "",
+      "img": "theamulet.png",
       "type": 1,
       "tags": [],
       "name": "The Amulet",
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "the-dark-age",
-      "img": "",
+      "img": "thedarkage.png",
       "type": 1,
       "tags": [],
       "name": "The Dark Age",
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "the-egg",
-      "img": "",
+      "img": "theegg.png",
       "type": 1,
       "tags": [],
       "name": "The Egg",
@@ -1034,7 +1034,7 @@
     },
     {
       "id": "the-fog-fall",
-      "img": "",
+      "img": "thefogfall.png",
       "name": "The Fog Fall",
       "type": 1,
       "tags": [],
